@@ -1,12 +1,5 @@
 # BiLSTM-Based Models for Metaphor Detection
 
-This repository is the [Lasagne](http://lasagne.readthedocs.io/en/latest/index.html) implementation for the network presented in:
-
-> Shichao Sun and Zhipeng Xie,
-> [BiLSTM-Based Models for Metaphor Detection](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_36)
-> NLPCC 2017 
-
-Concat: [scsun17@fudan.edu.cn](mailto:scsun17@fudan.edu.cn)
 
 ## Requirements
 - python 2.7
